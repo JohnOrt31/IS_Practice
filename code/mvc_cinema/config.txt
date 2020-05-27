@@ -1,0 +1,4 @@
+user:jonaort
+password:is98Pass19
+host:localhost
+database:cinema_carranza
